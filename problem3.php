@@ -1,3 +1,4 @@
+/* Dino je gladan i odlazi u Agi pastu da uzme svoje omiljene "Funghi Fusilli" */
 /* Implementirati funkciju koja za zadati niz sastojaka i niz cena pojedinačnih sastojaka vraća ukupnu cenu sastojaka. */
 
 function price_of($ingredients, $prices) {
